@@ -34,8 +34,8 @@ I am a student at the **Silesian University of Technology** (Politechnika Śląs
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=martagolka&show_icons=true&theme=minimal&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martagolka&layout=compact&theme=minimal&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marta23-10&show_icons=true&theme=minimal&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marta23-10&layout=compact&theme=minimal&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
